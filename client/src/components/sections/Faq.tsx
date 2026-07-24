@@ -1,4 +1,4 @@
-/* Gilded Ritual — FAQ accordion, copy corrected to British English */
+/* Gilded Ritual: FAQ accordion, copy corrected to British English */
 import {
   Accordion,
   AccordionContent,

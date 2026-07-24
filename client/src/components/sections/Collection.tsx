@@ -1,4 +1,4 @@
-/* Gilded Ritual — editorial product rows: index numerals, visible tasting notes & includes, dialog details */
+/* Gilded Ritual, editorial product rows: index numerals, visible tasting notes & includes, dialog details */
 import { useState } from "react";
 import { ArrowUpRight, Check } from "lucide-react";
 import {
@@ -128,7 +128,7 @@ export default function Collection() {
             Five gifts. One <em className="text-[var(--gold-hover)]">unforgettable</em> gesture.
           </h2>
           <p className="text-muted-foreground mt-5">
-            Each experience is hand-assembled in small batches — artisan blends
+            Each experience is hand-assembled in small batches, artisan blends
             sealed in keepsake glass, presented in gold-lined ceremony, remembered
             long after the moment has passed.
           </p>

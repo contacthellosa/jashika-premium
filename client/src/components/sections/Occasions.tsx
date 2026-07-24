@@ -1,4 +1,4 @@
-/* Maison of Moments — Chapter V: occasions as full editorial split with generated gifting imagery */
+/* Maison of Moments: Chapter V: occasions as full editorial split with generated gifting imagery */
 import { ArrowRight } from "lucide-react";
 import { IMG, OCCASIONS } from "@/lib/data";
 
@@ -20,13 +20,13 @@ export default function Occasions() {
             <div className="reveal img-zoom shadow-[0_30px_70px_-30px_rgba(36,30,22,0.45)]">
               <img
                 src={IMG.genGifting}
-                alt="The moment of giving — hands presenting a Jashika gift box tied with gold ribbon"
+                alt="The moment of giving, hands presenting a Jashika gift box tied with gold ribbon"
                 loading="lazy"
                 className="w-full aspect-[4/5] object-cover"
               />
             </div>
             <p className="reveal font-display italic text-muted-foreground text-sm mt-4">
-              The moment of giving — the reason we exist.
+              The moment of giving, the reason we exist.
             </p>
             <div className="reveal img-zoom mt-8 shadow-[0_30px_70px_-30px_rgba(36,30,22,0.45)] hidden lg:block">
               <img
@@ -47,7 +47,7 @@ export default function Occasions() {
             </h2>
             <p className="reveal text-muted-foreground text-sm max-w-lg mb-10">
               Bespoke packaging, customised ribbon accents and personalised message
-              cards — tailored to the occasion, carried in your words.
+              cards, tailored to the occasion, carried in your words.
             </p>
             <div>
               {OCCASIONS.map((o, i) => (

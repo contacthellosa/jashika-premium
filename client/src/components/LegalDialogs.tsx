@@ -1,4 +1,4 @@
-/* Gilded Ritual — legal content in dialogs (single-page constraint), covering UK distance-selling info */
+/* Gilded Ritual, legal content in dialogs (single-page constraint), covering UK distance-selling info */
 import {
   Dialog,
   DialogContent,
@@ -48,8 +48,8 @@ const CONTENT: Record<Exclude<LegalKey, null>, { title: string; body: React.Reac
           Jashika Premium Gifting ("we") respects your privacy. We collect only the
           personal information you provide through our enquiry form, newsletter
           signup, or purchases (name, contact details, delivery address, and order
-          details) and use it solely to fulfil orders, respond to enquiries, and —
-          with your consent — send occasional updates.
+          details) and use it solely to fulfil orders, respond to enquiries, and -
+          with your consent, send occasional updates.
         </p>
         <p>
           Payments are processed securely by Stripe; we never see or store your card

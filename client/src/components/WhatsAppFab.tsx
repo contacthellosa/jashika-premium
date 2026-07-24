@@ -1,4 +1,4 @@
-/* Gilded Ritual — brand-gold concierge floating button (replaces off-brand green bubble) */
+/* Gilded Ritual, brand-gold concierge floating button (replaces off-brand green bubble) */
 import { MessageCircle } from "lucide-react";
 import { CONTACT } from "@/lib/data";
 

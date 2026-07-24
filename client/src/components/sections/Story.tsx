@@ -1,4 +1,4 @@
-/* Maison of Moments — Chapter IV: atelier band, sharp full-height split on espresso */
+/* Maison of Moments: Chapter IV: atelier band, sharp full-height split on espresso */
 import { IMG } from "@/lib/data";
 
 export default function Story() {
@@ -8,7 +8,7 @@ export default function Story() {
         <div className="relative min-h-[420px] lg:min-h-[640px]">
           <img
             src={IMG.genAtelier}
-            alt="Jashika atelier — artisan hands preparing a keepsake glass bottle by hand"
+            alt="Jashika atelier, artisan hands preparing a keepsake glass bottle by hand"
             loading="lazy"
             className="absolute inset-0 h-full w-full object-cover"
           />
@@ -29,7 +29,7 @@ export default function Story() {
               <em className="text-[#D4AF37]">A pair of hands, and time.</em>
             </h2>
             <p className="reveal mt-7 text-white/75">
-              Every Jashika set is assembled by hand in England, in small batches —
+              Every Jashika set is assembled by hand in England, in small batches -
               blended, weighed, sealed, ribboned and signed off one at a time.
               Drawing on rich Indian heritage and contemporary European restraint,
               we make gifts the way they were made when giving meant something.

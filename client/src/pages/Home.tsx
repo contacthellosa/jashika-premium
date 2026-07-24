@@ -1,4 +1,4 @@
-/* Gilded Ritual — Jashika single landing page composition */
+/* Gilded Ritual: Jashika single landing page composition */
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import WhatsAppFab from "@/components/WhatsAppFab";

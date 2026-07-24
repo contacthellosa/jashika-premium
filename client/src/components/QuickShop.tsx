@@ -1,4 +1,4 @@
-/* Maison boutique — floating quick-shop bar: appears after hero, keeps price + buy one click away */
+/* Maison boutique, floating quick-shop bar: appears after hero, keeps price + buy one click away */
 import { useEffect, useState } from "react";
 import { ShoppingBag, X } from "lucide-react";
 import { PRODUCTS } from "@/lib/data";

@@ -1,4 +1,4 @@
-/* Gilded Ritual — presentation & craft: three-tier comparison resolving price perception */
+/* Gilded Ritual, presentation & craft: three-tier comparison resolving price perception */
 import { Check } from "lucide-react";
 
 const TIERS = [
@@ -26,7 +26,7 @@ const TIERS = [
     ],
   },
   {
-    name: "Chaar Ratna — The Grand Set",
+    name: "Chaar Ratna: The Grand Set",
     price: "£58",
     tagline: "All four signature blends. The ultimate expression",
     items: [

@@ -1,4 +1,4 @@
-/* Gilded Ritual — subtle scroll reveal hook (300–550ms, ease-out, reduced-motion safe via CSS) */
+/* Gilded Ritual, subtle scroll reveal hook (300–550ms, ease-out, reduced-motion safe via CSS) */
 import { useEffect } from "react";
 
 export function useRevealOnScroll() {

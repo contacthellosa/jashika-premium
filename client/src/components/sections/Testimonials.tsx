@@ -1,4 +1,4 @@
-/* Gilded Ritual — testimonials carried verbatim from the live site */
+/* Gilded Ritual, testimonials carried verbatim from the live site */
 import { Star } from "lucide-react";
 import { TESTIMONIALS } from "@/lib/data";
 
@@ -16,7 +16,7 @@ export default function Testimonials() {
               <em className="text-[var(--gold-hover)]">remembered.</em>
             </h2>
             <p className="text-muted-foreground text-sm mt-5 max-w-xs">
-              From milestone birthdays to executive gifting — in the words of the
+              From milestone birthdays to executive gifting, in the words of the
               people who gave Jashika.
             </p>
           </div>

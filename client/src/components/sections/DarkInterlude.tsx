@@ -1,4 +1,4 @@
-/* Maison of Moments — cinematic dark interlude: full-bleed pour image with a single line (Dior-style pause) */
+/* Maison of Moments, cinematic dark interlude: full-bleed pour image with a single line (Dior-style pause) */
 import { IMG } from "@/lib/data";
 
 export default function DarkInterlude() {
@@ -6,7 +6,7 @@ export default function DarkInterlude() {
     <section className="relative min-h-[70vh] flex items-center overflow-hidden">
       <img
         src={IMG.genDark}
-        alt="Amber tea poured into porcelain against deep espresso shadow — the Jashika evening ritual"
+        alt="Amber tea poured into porcelain against deep espresso shadow, the Jashika evening ritual"
         loading="lazy"
         className="absolute inset-0 h-full w-full object-cover"
       />

@@ -1,4 +1,4 @@
-/* Maison of Moments — cinematic full-bleed hero: generated campaign image, sharp geometry, gifting-experience voice */
+/* Maison of Moments, cinematic full-bleed hero: generated campaign image, sharp geometry, gifting-experience voice */
 import { ArrowRight } from "lucide-react";
 import { IMG } from "@/lib/data";
 
@@ -15,21 +15,21 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-r from-[#241E16]/78 via-[#241E16]/35 to-transparent" />
       <div className="absolute inset-0 bg-gradient-to-t from-[#241E16]/70 via-transparent to-transparent" />
 
-      {/* vertical side caption — signature element */}
+      {/* vertical side caption, signature element */}
       <span className="vertical-caption !text-white/50 absolute right-6 top-1/2 -translate-y-1/2 hidden lg:block">
         Maison of Gifting Rituals · England
       </span>
 
       <div className="container relative z-10 pb-20 lg:pb-28 pt-44">
         <div className="max-w-2xl">
-          <p className="eyebrow !text-[#D4AF37] mb-7">Jashika · Maison of Gifting Rituals</p>
+          <p className="eyebrow eyebrow--plain !text-[#D4AF37] mb-7">Jashika · Maison of Gifting Rituals</p>
           <h1 className="font-display text-white text-[2.6rem] md:text-6xl xl:text-[4.4rem] leading-[1.08]">
-            You are not sending a gift.
+            You're not sending tea.
             <br />
-            <em className="text-[#D4AF37]">You are marking a moment.</em>
+            <em className="text-[#D4AF37]">You're marking a moment.</em>
           </h1>
-          <p className="font-display italic text-white/75 text-lg mt-8 max-w-md">
-            Handcrafted in England. Kept for years.
+          <p className="font-display italic text-white/75 text-lg mt-8 max-w-lg">
+            Indian-heritage tea gift sets, handcrafted in England. Kept for years.
           </p>
           <div className="flex flex-wrap items-center gap-6 mt-12">
             <a href="#collection" className="btn-gold">

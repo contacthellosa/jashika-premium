@@ -1,4 +1,4 @@
-/* Gilded Ritual — sticky header: transparent over hero → ivory blur on scroll; Cinzel nav, gold CTA */
+/* Gilded Ritual, sticky header: transparent over hero → ivory blur on scroll; Cinzel nav, gold CTA */
 import { useEffect, useState } from "react";
 import { Menu, X } from "lucide-react";
 import { IMG } from "@/lib/data";
@@ -52,7 +52,7 @@ export default function SiteHeader() {
             <a
               key={n.href}
               href={n.href}
-              className={`nav-link whitespace-nowrap ${scrolled ? "" : "!text-white/90 hover:!text-[#D4AF37]"}`}
+              className={`nav-link whitespace-nowrap ${scrolled ? "" : "!text-white/90 hover:!text-white [text-shadow:0_1px_6px_rgba(20,15,10,0.55)]"}`}
             >
               {n.label}
             </a>

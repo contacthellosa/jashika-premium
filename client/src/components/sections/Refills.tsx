@@ -1,4 +1,4 @@
-/* Maison of Moments — Chapter III: refills as "The Ritual, Renewed" — sharp editorial grid, no arches */
+/* Maison of Moments: Chapter III: refills as "The Ritual, Renewed", sharp editorial grid, no arches */
 import { ArrowUpRight } from "lucide-react";
 import { REFILLS } from "@/lib/data";
 
@@ -19,7 +19,7 @@ export default function Refills() {
           </h2>
           <p className="text-muted-foreground max-w-md text-sm">
             The keepsake bottle stays; the experience returns. Refill pouches renew
-            every signature blend for £10 — the same ritual, less waste.
+            every signature blend for £10, the same ritual, less waste.
           </p>
         </div>
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-px bg-[var(--gold)]/25">
@@ -35,7 +35,7 @@ export default function Refills() {
               <div className="img-zoom">
                 <img
                   src={r.image}
-                  alt={`${r.name} refill pouch — renews the Jashika keepsake bottle`}
+                  alt={`${r.name} refill pouch, renews the Jashika keepsake bottle`}
                   loading="lazy"
                   className="w-full aspect-[4/5] object-cover"
                 />

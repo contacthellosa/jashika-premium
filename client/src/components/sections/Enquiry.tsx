@@ -1,4 +1,4 @@
-/* Gilded Ritual — enquiry: WhatsApp concierge + validated form that posts to the Jashika Google Form. */
+/* Gilded Ritual, enquiry: WhatsApp concierge + validated form that posts to the Jashika Google Form. */
 import { useState } from "react";
 import { ArrowRight, MessageCircle, Mail } from "lucide-react";
 import { toast } from "sonner";
@@ -98,7 +98,7 @@ export default function Enquiry() {
               <Mail className="h-6 w-6 text-[var(--gold)]" />
               <h3 className="font-display text-xl mt-5">Email the Concierge</h3>
               <p className="text-muted-foreground text-sm mt-2 leading-relaxed">
-                {CONTACT.email} — we respond within 24 hours.
+                {CONTACT.email}, we respond within 24 hours.
               </p>
             </a>
           </div>

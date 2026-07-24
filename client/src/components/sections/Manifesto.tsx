@@ -1,4 +1,4 @@
-/* Maison of Moments — Chapter I: manifesto, centered editorial statement */
+/* Maison of Moments: Chapter I: manifesto, centered editorial statement */
 
 export default function Manifesto() {
   return (
@@ -19,7 +19,7 @@ export default function Manifesto() {
             that stays.</em>
           </h2>
           <p className="reveal text-muted-foreground mt-8">
-            Jashika exists for the moments that deserve more than ordinary — the
+            Jashika exists for the moments that deserve more than ordinary, the
             milestone, the thank-you, the apology, the celebration. Each set is a
             complete ritual: hand-blended, sealed in glass made to be kept, and
             presented with the gravity the moment deserves.
@@ -27,9 +27,9 @@ export default function Manifesto() {
         </div>
         <div className="reveal grid grid-cols-1 sm:grid-cols-3 gap-10 mt-16 text-center">
           {[
-            ["Given", "with intention — every set carries a personalised message in your words"],
-            ["Kept", "for years — keepsake glass bottles remain on display long after"],
-            ["Remembered", "always — the unboxing is designed as ceremony, not packaging"],
+            ["Given", "with intention, every set carries a personalised message in your words"],
+            ["Kept", "for years, keepsake glass bottles remain on display long after"],
+            ["Remembered", "always, the unboxing is designed as ceremony, not packaging"],
           ].map(([word, rest]) => (
             <div key={word}>
               <p className="font-display italic text-2xl text-[var(--gold-hover)]">{word}</p>

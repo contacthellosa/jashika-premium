@@ -1,4 +1,4 @@
-/* Gilded Ritual — espresso footer with nav, contact, legal dialogs */
+/* Gilded Ritual, espresso footer with nav, contact, legal dialogs */
 import { useState } from "react";
 import { Instagram } from "lucide-react";
 import { IMG, CONTACT } from "@/lib/data";

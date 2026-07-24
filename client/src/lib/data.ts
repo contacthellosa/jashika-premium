@@ -1,5 +1,5 @@
 /**
- * Jashika brand data — sourced verbatim from jashika.co.uk (Jul 2026).
+ * Jashika brand data, sourced verbatim from jashika.co.uk (Jul 2026).
  * Prices, Stripe links, contact details and testimonials must stay exact.
  */
 
@@ -55,14 +55,14 @@ export const PRODUCTS: Product[] = [
     index: "01",
     slug: "noor",
     name: "Noor",
-    fullName: "Noor — The Himalayan Jasmine Ritual",
+    fullName: "Noor: The Himalayan Jasmine Ritual",
     tier: "The Ritual Sets",
     price: 51,
     buyUrl: "https://buy.stripe.com/bJeaEWfyS1JQd4Kd6W9oc00",
     buyLabel: "Buy Noor",
     image: IMG.noor,
     story:
-      "Named for radiant light. A gift of stillness — high-altitude jasmine gathered at peak bloom, sealed in glass, given to someone who deserves a quieter hour.",
+      "Named for radiant light. A gift of stillness, high-altitude jasmine gathered at peak bloom, sealed in glass, given to someone who deserves a quieter hour.",
     tastingNotes: "Soft jasmine blossom, honeyed notes, clean finish.",
     includes: [
       "1 Keepsake glass bottle of loose-leaf blend",
@@ -76,14 +76,14 @@ export const PRODUCTS: Product[] = [
     index: "02",
     slug: "neelam",
     name: "Neelam",
-    fullName: "Neelam — The Royal Blue Oolong Ritual",
+    fullName: "Neelam: The Royal Blue Oolong Ritual",
     tier: "The Ritual Sets",
     price: 51,
     buyUrl: "https://buy.stripe.com/cNi28q5Yi74a5Ci3wm9oc01",
     buyLabel: "Buy Neelam",
     image: IMG.neelam,
     story:
-      "“Sapphire.” A gift of depth — oolong slowly roasted over charcoal, made for the person whose taste needs no explanation.",
+      "“Sapphire.” A gift of depth, oolong slowly roasted over charcoal, made for the person whose taste needs no explanation.",
     tastingNotes: "Orchid and stone fruit, creamy body, mellow finish.",
     includes: [
       "1 Keepsake glass bottle of loose-leaf blend",
@@ -97,7 +97,7 @@ export const PRODUCTS: Product[] = [
     index: "03",
     slug: "triveni",
     name: "Triveni",
-    fullName: "Triveni — A Trio of Three Blends",
+    fullName: "Triveni: A Trio of Three Blends",
     tier: "The Trio Collections",
     badge: "Most Loved",
     price: 36,
@@ -105,7 +105,7 @@ export const PRODUCTS: Product[] = [
     buyLabel: "Buy Triveni",
     image: IMG.triveni,
     story:
-      "Where three journeys meet. Saffron Rose warmth, Himalayan Jasmine serenity, Royal Blue Oolong refinement — one gesture, three worlds to return to.",
+      "Where three journeys meet. Saffron Rose warmth, Himalayan Jasmine serenity, Royal Blue Oolong refinement, one gesture, three worlds to return to.",
     includes: [
       "3 Keepsake glass bottles of loose-leaf blends",
       "Thoughtfully combined flavour profiles",
@@ -117,7 +117,7 @@ export const PRODUCTS: Product[] = [
     index: "04",
     slug: "tri-rasa",
     name: "Tri-Rasa",
-    fullName: "Tri-Rasa — A Trio of Three Essences",
+    fullName: "Tri-Rasa: A Trio of Three Essences",
     tier: "The Trio Collections",
     price: 36,
     buyUrl: "https://buy.stripe.com/cNi14m2M66062q66Iy9oc03",
@@ -136,7 +136,7 @@ export const PRODUCTS: Product[] = [
     index: "05",
     slug: "chaar-ratna",
     name: "Chaar Ratna",
-    fullName: "Chaar Ratna — The Complete Collection",
+    fullName: "Chaar Ratna: The Complete Collection",
     tier: "The Grand Set",
     badge: "The Ultimate Gift",
     price: 58,
@@ -144,7 +144,7 @@ export const PRODUCTS: Product[] = [
     buyLabel: "Buy the Grand Set",
     image: IMG.chaarRatna,
     story:
-      "Four jewels. The complete Jashika expression — every signature blend in keepsake glass, presented in a deluxe rigid box. For the moment that outranks all others.",
+      "Four jewels. The complete Jashika expression, every signature blend in keepsake glass, presented in a deluxe rigid box. For the moment that outranks all others.",
     includes: [
       "All 4 signature blends in keepsake bottles",
       "Personalised message card & brewing guide",

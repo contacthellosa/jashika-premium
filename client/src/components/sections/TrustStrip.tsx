@@ -1,4 +1,4 @@
-/* Maison of Moments — trust band: gifting-experience promises */
+/* Maison of Moments, trust band: gifting-experience promises */
 import { Gift, Package, Recycle, MapPin } from "lucide-react";
 
 const ITEMS = [
