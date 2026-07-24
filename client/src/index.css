@@ -155,18 +155,18 @@
 
 @layer components {
   /**
-   * Custom container utility that centers content and adds responsive padding.
-   *
-   * This overrides Tailwind's default container behavior to:
-   * - Auto-center content (mx-auto)
-   * - Add responsive horizontal padding
-   * - Set max-width for large screens
-   *
-   * Usage: <div className="container">...</div>
-   *
-   * For custom widths, use max-w-* utilities directly:
-   * <div className="max-w-6xl mx-auto px-4">...</div>
-   */
+    * Custom container utility that centers content and adds responsive padding.
+    *
+    * This overrides Tailwind's default container behavior to:
+    * - Auto-center content (mx-auto)
+    * - Add responsive horizontal padding
+    * - Set max-width for large screens
+    *
+    * Usage: <div className="container">...</div>
+    *
+    * For custom widths, use max-w-* utilities directly:
+    * <div className="max-w-6xl mx-auto px-4">...</div>
+    */
   .container {
     width: 100%;
     margin-left: auto;
@@ -281,6 +281,7 @@
     color: var(--foreground);
     padding-bottom: 0.25rem;
     transition: color 0.25s var(--ease-out-luxe);
+    font-weight: 700;
   }
   .nav-link::after {
     content: "";
